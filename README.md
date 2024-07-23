@@ -13,3 +13,6 @@ Deadline : 11th of Mordad
   6. https://www.kaggle.com/code/dansbecker/random-forests
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+
+Week2:
+Deadline: 18th of Mordad
