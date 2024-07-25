@@ -12,7 +12,9 @@ Deadline : 11th of Mordad
   4. https://www.kaggle.com/code/dansbecker/model-validation (20 Points)
   5. https://www.kaggle.com/code/dansbecker/underfitting-and-overfitting (20 Points)
   6. https://www.kaggle.com/code/dansbecker/random-forests (30 Points)
+
 Bonus1: Do Week1-Bonus1.ipynb instructions (80 Points)
+
 Bounus2: Do Week1-Bonus2.ipynb instructions (50 Points)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
