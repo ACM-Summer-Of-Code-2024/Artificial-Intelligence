@@ -1,6 +1,6 @@
 # ACM_SOC_2024
 ACM Summer Of Code 2024
-You must get a total of 70% of the total marks, i.e. at least 490 points from the total assignments, to get the degree of this course.
+You must get a total of 70% of the total marks, i.e. at least 700 points from the total assignments, to get the degree of this course.
 
 Week1: 
 Deadline : 11th of Mordad
