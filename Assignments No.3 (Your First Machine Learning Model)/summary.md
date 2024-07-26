@@ -1,4 +1,4 @@
-## summary
+## Summary
 ### in continuation of [this](https://github.com/ACM-Summer-Of-Code-2024/AI-Group7-NoName/blob/main/Assignments%20No.2%20(Basic%20Data%20Exploration%20)/summary.md)
 + see all columns of our dataset with ==> `dataset_name.columns`
 + drop not-avaible in data set with ==> `dataset_name.dropna(axis=0)`
