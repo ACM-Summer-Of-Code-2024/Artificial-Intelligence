@@ -4,4 +4,4 @@
   + read the data and store data in DataFrame with ==> `variable_name = pd.read_csv(dataset)`
   + print a summary of the data with ==> `dataframe_name.describe()`
   + print a few data from top of dataset with ==> `dataframe_name.head()`
-  
+  You can continue with [this](https://github.com/ACM-Summer-Of-Code-2024/AI-Group7-NoName/blob/main/Assignments%20No.3%20(Your%20First%20Machine%20Learning%20Model)/summary.md)
