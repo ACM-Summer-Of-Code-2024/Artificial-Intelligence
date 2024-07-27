@@ -9,3 +9,4 @@
 + make model with ==> `model_name = DecisionTreeRegressor(random_state=1)`
 + fit model with ==> `model_name.fit(dataset_name[list_of_features], dataset_name.columns_name)`
 + prediction with model with ==> `model_name.predict(dataset_name[list_of_features].head())`
+You can continue with [this](https://github.com/ACM-Summer-Of-Code-2024/AI-Group7-NoName/blob/main/Assignments%20No.4%20(Model%20Validation)/summary.md)
