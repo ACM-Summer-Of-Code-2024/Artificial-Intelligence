@@ -4,4 +4,4 @@
 + calculate MAE with ==> `mean_absolute_error(true_value, predicted_value)`
 + break up the data into two pieces ==> `from sklearn.model_selection import train_test_split`
 + use train test split ==> `train_X, val_X, train_y, val_y = train_test_split(X, y, random_state = 0)`
-  
+### you can countinue with [this](https://github.com/ACM-Summer-Of-Code-2024/AI-Group7-NoName/blob/main/Assignments%20No.5%20(Underfitting%20and%20Overfitting)/summary.md)
