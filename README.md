@@ -1,6 +1,6 @@
 # ACM_SOC_2024
 ACM Summer Of Code 2024
-You must get a total of 70% of the total marks, i.e. at least 490 points from the total assignments, to get the degree of this course.
+You must get a total of 70% of the total marks, i.e. at least 700 points from the total assignments, to get the degree of this course.
 
 Week1: 
 Deadline : 11th of Mordad
@@ -16,3 +16,13 @@ Deadline : 11th of Mordad
 Bonus: Do Week1-Bonus.ipynb instructions (60 Points)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+Week2: 
+Deadline : 20th of Mordad
+1. Do the exercises and textbooks of this Kaggel course as a practice: (20 Points)
+    * https://www.kaggle.com/learn/pandas
+2. In the "Coursera Introduction to data science in python" folder, 4 of the assignments of the Introduction to data science in python course from the Coursera website have been placed for you. Doing these projects does not require a lot of time, but it prepares you for the main tasks. Do all of them. (30 Points)
+3. Complete the second week assignment titled Week2.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (60 Points)
+4. Bonus: Do Week2-Bonus.ipynb instructions. (50 Points)
+
+Put everything you do in a folder called Week2.
+
