@@ -18,7 +18,7 @@ Bonus: Do Week1-Bonus.ipynb instructions (60 Points)
 -------------------------------------------------------------------------------------------------------------------------------------------
 Week2: 
 Deadline : 20th of Mordad
-1. Do the exercises and textbooks of this Kaggel course as a practice: (20 Points)
+1. Do the exercises and textbooks of this Kaggel course as a practice: (30 Points)
     * https://www.kaggle.com/learn/pandas
     * https://www.kaggle.com/code/alexisbcook/missing-values
     * https://www.kaggle.com/code/alexisbcook/categorical-variables
