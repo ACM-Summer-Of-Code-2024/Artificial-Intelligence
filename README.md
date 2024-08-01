@@ -20,6 +20,10 @@ Week2:
 Deadline : 20th of Mordad
 1. Do the exercises and textbooks of this Kaggel course as a practice: (20 Points)
     * https://www.kaggle.com/learn/pandas
+    * https://www.kaggle.com/code/alexisbcook/missing-values
+    * https://www.kaggle.com/code/alexisbcook/categorical-variables
+    * https://www.kaggle.com/code/alexisbcook/pipelines
+    * https://www.kaggle.com/code/alexisbcook/cross-validation
 2. In the "Coursera Introduction to data science in python" folder, 4 of the assignments of the Introduction to data science in python course from the Coursera website have been placed for you. Doing these projects does not require a lot of time, but it prepares you for the main tasks. Do all of them. (30 Points)
 3. Complete the second week assignment titled Week2.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (60 Points)
 4. Bonus: Do Week2-Bonus.ipynb instructions. (50 Points)
