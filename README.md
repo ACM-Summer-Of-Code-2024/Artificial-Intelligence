@@ -15,6 +15,8 @@ Deadline : 11th of Mordad
 
 Bonus: Do Week1-Bonus.ipynb instructions (60 Points)
 
+Mohammad's point : 160
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 Week2: 
 Deadline : 20th of Mordad
