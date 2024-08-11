@@ -15,6 +15,8 @@ Deadline : 11th of Mordad
 
 Bonus: Do Week1-Bonus.ipynb instructions (60 Points)
 
+Mohammad's Point: 160 - Everything was great about kaggle exercises, but it would have been better about bonus exercise, how many values ​​for the number of trials per Monte Carlo simulation. Or you would graph them. Although this amount is sufficient at this stage, more searches, especially on simple tasks, can take you forward. Overall, everything is good. I hope to see your progress
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 Week2: 
 Deadline : 20th of Mordad
