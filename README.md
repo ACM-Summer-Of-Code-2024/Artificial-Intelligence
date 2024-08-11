@@ -15,6 +15,8 @@ Deadline : 11th of Mordad
 
 Bonus: Do Week1-Bonus.ipynb instructions (60 Points)
 
+Mohammad's Point: 160 - Everything was great about kaggle exercises, but it would have been better about bonus exercise, how many values ​​for the number of trials per Monte Carlo simulation. Or you would graph them. Although this amount is sufficient at this stage, more searches, especially on simple tasks, can take you forward. Overall, everything is good. I hope to see your progress
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 Week2: 
 Deadline : 20th of Mordad
@@ -29,4 +31,18 @@ Deadline : 20th of Mordad
 4. Bonus: Do Week2-Bonus.ipynb instructions. (50 Points)
 
 Put everything you do in a folder called Week2.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Week3&4:
+Deadline : 2nd of Shahrivar
+1. Do the exercises and textbooks of this Kaggel course as a practice: (40 Points)
+   * https://www.kaggle.com/code/alexisbcook/handling-missing-values
+   * https://www.kaggle.com/code/alexisbcook/scaling-and-normalization
+   * https://www.kaggle.com/code/alexisbcook/data-leakage
+   * https://www.kaggle.com/learn/data-visualization
+2. In the "Coursera Introduction to data science in python/Week3" folder, 7 of the assignments of the Introduction to data science in python course from the Coursera website have been placed for you. Doing these projects does not require a lot of time, but it prepares you for the main tasks. Do all of them. (35 Points)
+3. Complete the second week assignment titled Week3.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (280 Points)
+4. Bonus: Do Week3-Bonus.ipynb instructions. (95 Points)
+
+Put everything you do in a folder called Week3.
 
