@@ -49,12 +49,15 @@ Put everything you do in a folder called Week3.
 Week5:
 Deadline: 16th of Shahrivar.
 
-1. Do the exercises and textbooks of this Kaggel course as a practice: (50 Points)
+1. Do the exercises and textbooks of this Kaggel course as a practice: (40 Points)
   * https://www.kaggle.com/learn/feature-engineering 
   * https://www.kaggle.com/code/alexisbcook/parsing-dates 
   * https://www.kaggle.com/code/alexisbcook/character-encodings 
   * https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry
+
+2. Do the exercises and textbooks of this Kaggel course as a practice: (80 Points)
   * https://www.kaggle.com/learn/intro-to-deep-learning
   * https://www.kaggle.com/learn/computer-vision
-2. Complete the fourth week assignment titled Week4.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (160 Points)
+
+3. Complete the fourth week assignment titled Week4.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (180 Points)
 
