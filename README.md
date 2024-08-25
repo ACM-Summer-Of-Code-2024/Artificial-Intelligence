@@ -45,3 +45,8 @@ Deadline : 2nd of Shahrivar
 
 Put everything you do in a folder called Week3.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+Week5:
+Deadline: 10th of Shahrivar.
+1.Complete the fourth week assignment titled Week4.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (160 Points)
+
