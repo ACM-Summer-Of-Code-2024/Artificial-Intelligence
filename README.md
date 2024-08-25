@@ -60,5 +60,5 @@ Deadline: 16th of Shahrivar.
   * https://www.kaggle.com/learn/computer-vision
 
 3. Complete the fourth week assignment titled Week4.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (180 Points)
-4. Bonus: Do Week4-Bonus.ipynb instructions. (250 Points)
+4. Bonus: Do Week4-Bonus.ipynb instructions. (245 Points)
 
