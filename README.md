@@ -45,3 +45,28 @@ Deadline : 2nd of Shahrivar
 
 Put everything you do in a folder called Week3.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+Week4:
+Deadline: 16th of Shahrivar.
+
+1. Do the exercises and textbooks of this Kaggel course as a practice: (65 Points)
+  * https://www.kaggle.com/learn/feature-engineering 
+  * https://www.kaggle.com/code/alexisbcook/parsing-dates 
+  * https://www.kaggle.com/code/alexisbcook/character-encodings 
+  * https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry
+
+2. Do the exercises and textbooks of this Kaggel course as a practice: (110 Points)
+  * https://www.kaggle.com/learn/intro-to-deep-learning
+  * https://www.kaggle.com/learn/computer-vision
+
+3. Complete the fourth week assignment titled Week4.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (260 Points)
+4. Bonus: Do Week4-Bonus.ipynb instructions. (285 Points)
+5. (optional) **Residual neural network**:link below contains information about vanishing gradients and exploding gradients and how Residual neural networks solve these problems:
+  * https://medium.com/@ibtedaazeem/understanding-resnet-architecture-a-deep-dive-into-residual-neural-network-2c792e6537a9
+
+6. (optional)  **Cluster-based outlier detection**:one of the methods for outlier detection is using clustering algorithms.link 
+below contains theory and implementations of such methods:
+  * https://medium.com/@tomstaite1/outlier-detection-using-dbscan-clustering-algorithm-a-python-implementation-f5be72a690fe
+
+
+
