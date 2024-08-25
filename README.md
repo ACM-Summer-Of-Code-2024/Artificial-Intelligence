@@ -55,5 +55,6 @@ Deadline: 16th of Shahrivar.
   * https://www.kaggle.com/code/alexisbcook/character-encodings 
   * https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry
   * https://www.kaggle.com/learn/intro-to-deep-learning
+  * https://www.kaggle.com/learn/computer-vision
 2. Complete the fourth week assignment titled Week4.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (160 Points)
 
