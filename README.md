@@ -38,9 +38,10 @@ Deadline : 2nd of Shahrivar
    * https://www.kaggle.com/code/alexisbcook/scaling-and-normalization
    * https://www.kaggle.com/code/alexisbcook/data-leakage
    * https://www.kaggle.com/learn/data-visualization
-2. In the "Coursera Introduction to data science in python/Week3" folder, 7 of the assignments of the Introduction to data science in python course from the Coursera website have been placed for you. Doing these projects does not require a lot of time, but it prepares you for the main tasks. Do all of them. (35 Points)
-3. Complete the second week assignment titled Week3.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (280 Points)
-4. Bonus: Do Week3-Bonus.ipynb instructions. (95 Points)
+2. In the "Coursera Introduction to data science in python/Week3" folder, 4 of the assignments of the Introduction to data science in python course from the Coursera website have been placed for you. Doing these projects does not require a lot of time, but it prepares you for the main tasks. Do all of them. (20 Points)
+3. In the "Coursera Applied Plotting, Charting & Data Representation in Python" folder, 3 of the assignments of Applied Plotting, Charting & Data Representation in Python from the Coursera website have been placed for you. Doing these projects does not require a lot of time, but it prepares you for the main tasks. Do all of them. (15 Points)
+4. Complete the second week assignment titled Week3.ipynb. A part of this assignment, which is beyond what is learned in class, is included in the form of bonus. (280 Points)
+5. Bonus: Do Week3-Bonus.ipynb instructions. (95 Points)
 
 Put everything you do in a folder called Week3.
 
